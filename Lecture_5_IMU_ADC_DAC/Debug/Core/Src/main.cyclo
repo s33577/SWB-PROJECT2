@@ -1,9 +1,0 @@
-../Core/Src/main.c:99:5:main	2
-../Core/Src/main.c:153:6:SystemClock_Config	3
-../Core/Src/main.c:197:6:HAL_TIM_PeriodElapsedCallback	4
-../Core/Src/main.c:211:19:MPU6050_WriteReg	1
-../Core/Src/main.c:218:19:MPU6050_ReadReg	1
-../Core/Src/main.c:225:19:MPU6050_ReadRegs	1
-../Core/Src/main.c:232:9:MPU6050_Init	5
-../Core/Src/main.c:259:19:MPU6050_ReadRaw	2
-../Core/Src/main.c:288:6:Error_Handler	1

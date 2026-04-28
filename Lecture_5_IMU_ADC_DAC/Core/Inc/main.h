@@ -53,11 +53,7 @@ extern "C" {
 void Error_Handler(void);
 
 /* USER CODE BEGIN EFP */
-HAL_StatusTypeDef MPU6050_WriteReg(uint8_t reg, uint8_t value);
-HAL_StatusTypeDef MPU6050_ReadReg(uint8_t reg, uint8_t *value);
-HAL_StatusTypeDef MPU6050_ReadRegs(uint8_t reg, uint8_t *buffer, uint16_t len);
-uint8_t MPU6050_Init(void);
-HAL_StatusTypeDef MPU6050_ReadRaw(void);
+
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
